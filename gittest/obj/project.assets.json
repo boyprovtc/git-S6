@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\git-S6\\Clone\\CloneGitS6\\gittest\\gittest.csproj",
+      "projectUniqueName": "E:\\Code\\git-S6\\gittest\\gittest.csproj",
       "projectName": "gittest",
-      "projectPath": "E:\\Code\\git-S6\\Clone\\CloneGitS6\\gittest\\gittest.csproj",
+      "projectPath": "E:\\Code\\git-S6\\gittest\\gittest.csproj",
       "packagesPath": "C:\\Users\\ASUS-HTS\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\git-S6\\Clone\\CloneGitS6\\gittest\\obj\\",
+      "outputPath": "E:\\Code\\git-S6\\gittest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS-HTS\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OpIhYIRCg/rsw4ug5maUjaGJOc0mIihCQyLQy8S4AESrnIuu2ykG79QTE25+sHo5kvGKN7ZsHWHOfU0LN2RUQg==",
+  "dgSpecHash": "eP28l7KnWBwhFj1aGtsYrhiPHiZsgg3VXamhzvMJYXdTPyqTJWUoUsw2cAqQQ6WYpqQTFrhZrDeue+eQCkjqFQ==",
   "success": true,
-  "projectFilePath": "E:\\Code\\git-S6\\Clone\\CloneGitS6\\gittest\\gittest.csproj",
+  "projectFilePath": "E:\\Code\\git-S6\\gittest\\gittest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
